@@ -1,3 +1,4 @@
+# Automatically added by laravel/laravel app skeleton
 /node_modules
 /public/hot
 /public/storage
@@ -9,3 +10,6 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 .env
+
+# Added by us
+composer.phar
