@@ -1,4 +1,4 @@
 environment:
-- !secret 'gAAAAABZHITMDLglTZOA6m6Y4KT1aU5SPu2_ZifqZSJ-sc_XRkMGOJ65xnfxXS1oUSOJcrnoGBMCPn8chtrfd15AZkGdkhj-32URKljfw6x2i0BC4S0vC-4L3D6s4DvmWrVoliPRMFkPPEW_A10l2EJJiSM81ZOcn1QFq_oXQEas4T0nuMIWdpM='
+- APP_KEY=base64:+CeiFIjG6oCLR/SiFHMUE4ZdUwvx3z5K6uppcqVg2nI=
 installation_id: '23363'
 repo_id: '91486070'
