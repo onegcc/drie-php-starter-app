@@ -1,5 +1,4 @@
 environment:
-- APP_KEY=base64:+CeiFIjG6oCLR/SiFHMUE4ZdUwvx3z5K6uppcqVg2nI=
 - ENV=Production -r prod
 commands:
   test-cron:
