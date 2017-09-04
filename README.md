@@ -2,6 +2,10 @@
 
 A barebones PHP app, based on the [Laravel](https://laravel.com/) framework.
 
+## Monitoring branch
+
+We use this one for monitoring. If you delete it, tell people who get alerted from monitoring.
+
 ## Requirements
 
 1. [PHP](http://php.net/manual/en/install.php). Note on macOS PHP is installed out of the box but is some versions behind the current release.
